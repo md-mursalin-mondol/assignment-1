@@ -1,0 +1,141 @@
+.style1{
+    justify-content: center;
+    margin-top: 220px;
+}
+.lin{
+    font-size: 65px;
+    margin-left: 200px;
+    text-align: right;
+    margin-right: 500px;
+}
+.mmm{
+    font-size: 25px;
+    margin-left: 20px;
+    margin-right: 500px;
+    text-align: right;
+
+}
+.btn{
+    margin-left: 530px;
+    padding: 18px 26px;
+    height: 64px;
+    border-radius: 5px;
+    background: orangered;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+
+}
+/* 2nd row */
+.sal{
+    display: flex;
+   text-align: left;
+}
+.a{
+   margin-top: 200px;
+  
+}
+.in{
+    margin-top: 220px;
+    margin-right: 800px;
+    text-align: left;
+}
+.mu{
+    width: 288px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 47px;
+    line-height: 47px;
+}
+.rs{
+    width: 550px;
+    height: 104px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    font-size: 25px;
+}
+.al{
+    list-style: none;
+    font-size: 25px;
+   margin: 40px 0px 30px;
+}
+.green{
+    color: green;
+}
+.mo{
+    text-align: center;
+    margin-bottom: 0px;
+ }
+ .l{
+     border-radius: 10px;
+     font-weight: 700;
+     font-size: 60px;
+ 
+ }
+ .lucky{
+     max-width: 1140px;
+     height: 47px;
+     margin: 0% auto;
+     padding: 10px;
+ }
+ .lord{
+     display: flex;
+     justify-content: center;
+     justify-content: space-between;
+ }
+ .lu{
+     font-size: 35px;
+     font-weight: 700;
+ }
+ .ck{
+     font-size: 20px;
+ }
+ .mira{
+    margin-top: 600px;
+    font-size: 45px;
+    background-image: url(../watch.png);
+    width: 1600px;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(to left, blue);
+    
+ }
+ .btn-2{
+    padding: 15px 35px;
+    height: 64px;
+    border-radius: 5px;
+    background: orangered;
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+    border: 0;
+   
+ }
+ .monster{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-around;
+    
+ }
+ .monster.1{
+    
+ }
+ .monster-lin{
+    display: flex;
+ }
+ .monster-3{
+    width: 98.06px;
+height: 24px;
+left: 1082.02px;
+top: 2936.3px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+color: orangered;
+ }
